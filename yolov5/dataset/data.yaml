@@ -1,0 +1,5 @@
+names:
+- Pig
+nc: 1
+train: /home/user1/yolov5/dataset/train.txt
+val: /home/user1/yolov5/dataset/val.txt
